@@ -66,8 +66,14 @@ function Home() {
             <div className="col-lg-6 d-flex flex-column align-items-center mb-5 mb-lg-0">
               <h3 className="fs-2 mb-5">Food</h3>
               <ul className="px-0">
+              <li className="d-flex justify-content-between">
+                  <p className="fs-3 mx-2">Main Course</p>
+                </li>
                 <li className="d-flex justify-content-between">
                   <p className="fs-3 mx-2">SUSHI</p>
+                </li>
+                <li className="d-flex justify-content-between">
+                  <p className="fs-3 mx-2">Soup</p>
                 </li>
                 <li className="d-flex justify-content-between">
                   <p className="fs-3 mx-2">APPITISER</p>
@@ -84,10 +90,13 @@ function Home() {
                   <p className="fs-3 mx-2">Coffee</p>
                 </li>
                 <li className="d-flex justify-content-between">
-                  <p className="fs-3 mx-2">Juice</p>
+                  <p className="fs-3 mx-2">Soft drink</p>
                 </li>
                 <li className="d-flex justify-content-between">
-                  <p className="fs-3 mx-2">Spirits</p>
+                  <p className="fs-3 mx-2">Fresh</p>
+                </li>
+                <li className="d-flex justify-content-between">
+                  <p className="fs-3 mx-2">Smoothie</p>
                 </li>
               </ul>
             </div>
@@ -114,3 +123,10 @@ function Home() {
 }
 
 export default Home;
+// import React from "react";
+// import Gallery1 from '../utils/img/NEW.jpg';
+// import Gallery2 from '../utils/img/gallery2.jpg';
+// import Gallery3 from '../utils/img/NEW2.jpg';
+// import Gallery4 from '../utils/img/1.jpg';
+// import Gallery5 from '../utils/img/NEW4.jpg';
+// import Gallery6 from '../utils/img/gallery6.jpg';
