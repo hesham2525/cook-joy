@@ -1,4 +1,29 @@
 .menu-page header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../utils/img/menu-img.jpg);
-    height: 80vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../utils/img/menu-img.jpg);
+  height: 80vh;
 }
+.cart {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+
+  .custom-card {
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
+    cursor: pointer;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.01);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25);
+  }
+  .slider-section img {
+    height:600px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
