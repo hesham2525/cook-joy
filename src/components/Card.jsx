@@ -9,7 +9,7 @@ function Cart1(props) {
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text>{props.docs}</Card.Text>
-        <Button variant="warning">{props.price} EGY</Button>
+        <Button variant="warning">{props.price} EGP</Button>
       </Card.Body>
     </Card>
   );
