@@ -38,17 +38,15 @@ function About() {
         </div>
 
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, esse
-          nulla, debitis similique, ad nihil architecto maiores doloribus quis
-          blanditiis distinctio. Praesentium, harum atque fuga nobis eius
-          laboriosam totam consequuntur officia dolorem quo velit incidunt
-          fugiat at maxime, molestias esse dignissimos accusantium enim debitis.
-          Id et quidem sapiente adipisci dolor ipsa amet tempora porro atque
-          perferendis. Libero odio, molestiae aliquam modi facere, veritatis,
-          illo labore deserunt ducimus ipsam rem ipsum perspiciatis eveniet
-          maiores excepturi. Architecto sit ducimus inventore officia porro vel?
-          Accusantium recusandae nisi autem iste suscipit distinctio, libero
-          rem.
+          Welcome to Cook & Joy – where food is not just served, but celebrated.
+          Our restaurant offers a unique culinary experience that invites guests
+          to step into the heart of the kitchen. Whether you're here for a quick
+          bite or a full course meal, every dish is prepared with passion,
+          flavor, and care. We believe in food that tells a story – made with
+          the freshest ingredients and inspired by both tradition and
+          creativity. Join us and become part of a journey where you can taste,
+          learn, and even cook with us. At Cook & Joy, we don’t just serve meals
+          – we create moments, memories, and joy on every plate.
         </p>
       </div>
 
